@@ -5,7 +5,6 @@ openpyxl
 streamlit-option-menu
 streamlit-aggrid
 pyperclip
-opeani
 streamlit==1.19.0
 pandas==1.5.3
 sqlalchemy==2.0.0
