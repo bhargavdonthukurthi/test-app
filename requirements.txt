@@ -8,6 +8,5 @@ pyperclip
 streamlit==1.19.0
 pandas==1.5.3
 sqlalchemy==2.0.0
-pyodbc==4.0.32
 azure-identity==1.10.0
 azure-mgmt-sql
